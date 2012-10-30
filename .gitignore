@@ -1,0 +1,4 @@
+*.o
+*.psd
+binclock_ncurses
+binclock_sdl
